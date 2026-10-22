@@ -49,4 +49,3 @@ dist/
 *.log
 
 # Keep local configuration private
-/src/main/resources/application.properties
